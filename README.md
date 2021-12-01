@@ -20,6 +20,10 @@
 
 ![image](https://user-images.githubusercontent.com/57996343/144308678-d32e8b75-8b0d-4fc1-8ef8-e10c2ad09de4.png)
 
+Таблица:
+![image](https://user-images.githubusercontent.com/57996343/144317031-333090bd-83a1-4cf3-80b5-6a37622caad5.png)
+
+
 Часть 2
 Изображения из R-файлаЖ
 
