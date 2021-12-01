@@ -26,24 +26,21 @@
 
 
 Часть 2
-Изображения из R-файлаЖ
+Изображения из R-файла:
 
 ![image](https://user-images.githubusercontent.com/57996343/144314231-26c61f1f-70d8-4693-baf8-1091b1e28fed.png)
 
 ![image](https://user-images.githubusercontent.com/57996343/144314316-e779e2bc-0ced-4f30-b079-cd1052d30095.png)
 
-![image](https://user-images.githubusercontent.com/57996343/144315247-2d2a5751-ccd8-459d-a664-e05c4544aec5.png)
 
-![image](https://user-images.githubusercontent.com/57996343/144315366-9f17a5f6-462e-49c1-a0c4-2d61367f66d5.png)
+![image](https://user-images.githubusercontent.com/57996343/144318528-af9f9515-5df5-404b-9bd4-08721e8e8497.png)
 
-![image](https://user-images.githubusercontent.com/57996343/144315488-d359ce48-b5dc-4611-b7dd-87a28a8049d3.png)
+![image](https://user-images.githubusercontent.com/57996343/144318667-c1ab28bb-17b4-41b5-a955-99250748bb6f.png)
 
-![image](https://user-images.githubusercontent.com/57996343/144315589-2cfa20af-cd53-438b-b08f-8f807492a9f1.png)
+![image](https://user-images.githubusercontent.com/57996343/144318894-4c1fe308-d463-42fe-8f76-d9c3c24fe3e3.png)
 
-![image](https://user-images.githubusercontent.com/57996343/144315673-303f0daf-16dd-4253-bc0e-d6d75d710f7f.png)
+![image](https://user-images.githubusercontent.com/57996343/144318936-91c07ab5-8b61-4f81-ad39-41c50d461a28.png)
 
-![image](https://user-images.githubusercontent.com/57996343/144316201-c05a21bb-d612-4048-b119-b923e821f211.png)
-
-
+![image](https://user-images.githubusercontent.com/57996343/144319059-a2f4c857-993e-4014-ba71-0d18dfbcd31b.png)
 
 
