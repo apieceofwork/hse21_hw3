@@ -21,4 +21,23 @@
 ![image](https://user-images.githubusercontent.com/57996343/144308678-d32e8b75-8b0d-4fc1-8ef8-e10c2ad09de4.png)
 
 Часть 2
+Изображения из R-файлаЖ
+
+![image](https://user-images.githubusercontent.com/57996343/144314231-26c61f1f-70d8-4693-baf8-1091b1e28fed.png)
+
+![image](https://user-images.githubusercontent.com/57996343/144314316-e779e2bc-0ced-4f30-b079-cd1052d30095.png)
+
+![image](https://user-images.githubusercontent.com/57996343/144315247-2d2a5751-ccd8-459d-a664-e05c4544aec5.png)
+
+![image](https://user-images.githubusercontent.com/57996343/144315366-9f17a5f6-462e-49c1-a0c4-2d61367f66d5.png)
+
+![image](https://user-images.githubusercontent.com/57996343/144315488-d359ce48-b5dc-4611-b7dd-87a28a8049d3.png)
+
+![image](https://user-images.githubusercontent.com/57996343/144315589-2cfa20af-cd53-438b-b08f-8f807492a9f1.png)
+
+![image](https://user-images.githubusercontent.com/57996343/144315673-303f0daf-16dd-4253-bc0e-d6d75d710f7f.png)
+
+
+
+
 
